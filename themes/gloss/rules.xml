@@ -9,7 +9,7 @@
     <!-- Apply the following rules to standard Plone pages -->
     <rules css:if-content=".inner-content">
 
-        <theme href="http://fly-jamaica.webflow.com/"/>
+        <theme href="http://glossinator.webflow.com/"/>
         <!-- To change your theme simply change theme entry above
             to the url of your theme (or use a local index.html)
             <theme href="http://glossinator.webflow.com/" /> -->
