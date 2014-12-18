@@ -6,11 +6,11 @@ Step 1 - Checkout and Initialize
 `````````````````````````````````
 Checkout the repository::
 
-  git checkout  reate Folder::
+  git clone git@github.com:GlossProject/gloss-backend-kotti-heroku.git
 
 Initialize for heroku::
 
-  curl -L http://goo.gl/x4zRS9 | bash
+  ./prepare.sh
 
 Step 2 - Customize and Push
 ``````````````````````````````
