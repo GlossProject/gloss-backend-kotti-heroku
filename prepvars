@@ -1,4 +1,4 @@
 #!/bin/bash
-export DBURL=$("$DATABASE_URL | cut -d: -f2-")
+export DBURL=$("echo $DATABASE_URL | cut -d: -f2-")
 echo "the database url is: $DBURL"
 sed -i.bak s/DBURL/$DBURL/g app.ini
