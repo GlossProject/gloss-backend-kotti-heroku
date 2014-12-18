@@ -1,3 +1,4 @@
 #!/bin/bash
 #python setup.py develop
+sh prepvars.sh
 python runapp.py
