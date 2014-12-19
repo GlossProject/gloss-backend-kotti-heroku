@@ -92,4 +92,4 @@ target/
 [Ll]ib
 [Ss]cripts
 pyvenv.cfg
-
+local/
